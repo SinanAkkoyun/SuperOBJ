@@ -24,7 +24,7 @@ o body2
 ```
 
 sobj:
-```sobj
+```obj
 o body1
 parent body2
 origin -0.839469 2.615359 -4.873873
