@@ -42,5 +42,6 @@ Just as simple as that! Now write your own parser into your application if you n
 I am writing a custom Minecraft mesh renderer (hence the Iris fork) and want to import mulitple objects with different origins and parenting from an obj file. FBX does already support all of this and MUCH more but OBJ is easy to parse for everyone and often the choice for a simple game engine or renderer.
 
 # TODO
+- Write Blender AddOn for exporting
 - implement socket rotation
 - implement range of motion into joints (or new joint format alltogether)
