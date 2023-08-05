@@ -43,5 +43,6 @@ I am writing a custom Minecraft mesh renderer (hence the Iris fork) and want to 
 
 # TODO
 - Write Blender AddOn for exporting
+- rotation
 - implement socket rotation
 - implement range of motion into joints (or new joint format alltogether)
