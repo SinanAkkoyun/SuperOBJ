@@ -28,7 +28,7 @@ sobj:
 o body1
 parent body2
 origin -0.839469 2.615359 -4.873873
-socket 0.5 -2.0 0.5
+socket socketName 0.5 -2.0 0.5
 
 o body2
 # [...]
