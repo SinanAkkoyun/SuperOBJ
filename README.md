@@ -5,6 +5,8 @@ This enables you to import an OBJ as a whole asset and enables you to animate st
 
 This file format is to be used as a separate file in the same directory as the `.obj` file.
 
+> The origin is in world space, the rotation offset in origin space (rot to be implemented)
+
 # Example
 
 Let's say we have body1 which should be a child of body2. Let's assume that body2 is an arm of some sorts, which has a joint (new origin) and a socket for holding items (socket).
