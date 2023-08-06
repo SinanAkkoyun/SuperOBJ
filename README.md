@@ -5,7 +5,7 @@ This enables you to import an OBJ as a whole asset and enables you to animate st
 
 This file format is to be used as a separate file in the same directory as the `.obj` file.
 
-> The origin is in world space, the rotation offset in origin space (rot to be implemented) and socket positions are in local space relative to the attached body
+> The origin is in world space, the rotation offset in origin space (rot to be implemented) and socket positions are also in object space
 
 # Example
 
